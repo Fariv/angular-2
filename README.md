@@ -28,3 +28,21 @@ install all libraries and dependencies.
 Now you can start the TypeScript compiler in watch mode and run lite-server with automatic refreshing.
 
 `npm start`
+
+***
+
+### Angular 2
+
+- [Official Website](https://angular.io/)
+- [Getting Started Guide](https://angular.io/docs/ts/latest/quickstart.html)
+- [Angular 2 Forum](https://thenewboston.com/forum/category.php?id=111)
+- [Angular 2 reddit](https://www.reddit.com/r/Angular2/)
+
+### Other
+
+- [thenewboston](https://thenewboston.com/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [Google+](https://plus.google.com/+BuckyRoberts)
+- [reddit](https://www.reddit.com/r/thenewboston/)
+- [Donate](https://www.patreon.com/thenewboston)
