@@ -33,10 +33,10 @@ Now you can start the TypeScript compiler in watch mode and run lite-server with
 
 ### Angular 2
 
-- [Official Website](https://angular.io/)
-- [Getting Started Guide](https://angular.io/docs/ts/latest/quickstart.html)
-- [Angular 2 Forum](https://thenewboston.com/forum/category.php?id=111)
-- [Angular 2 reddit](https://www.reddit.com/r/Angular2/)
+- [angular.io](https://angular.io/) - Official website for Angular and Angular 2.
+- [Getting Started](https://angular.io/docs/ts/latest/quickstart.html) - Quick guide on how to get up and running.
+- [Forum](https://thenewboston.com/forum/category.php?id=111) - For Angular 2 related questions, news, and discussion.
+- [Reddit](https://www.reddit.com/r/Angular2/) - Subreddit for Google's next iteration of AngularJS.
 
 ### Other
 
